@@ -1,5 +1,7 @@
 # WDay (Whirl Data, alternative to YAML)
 
+[![Downloads](https://pepy.tech/badge/wday/month)](https://pepy.tech/project/wday/month)
+
 ## A simple Data storage alternative to json and yaml
 
 ## How to use?
